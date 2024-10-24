@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root{
+    --main-color:#4D9738;
+    --secandry-color:#62B946;
+}
+*{
+    font-family: "Almarai", serif;
+    direction: rtl;
+}
+h1,h2{
+    color: var(--main-color);
+}
