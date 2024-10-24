@@ -1,4 +1,5 @@
 {
+  "homepage":"https://ammar-softwareengineer.github.io/Anwar-Al-Huda/",
   "name": "my-mfe-app",
   "private": true,
   "version": "0.0.0",
@@ -9,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-"deploy": "gh-pages -d build",
+"deploy": "gh-pages -d build"
   },
   "dependencies": {
     "@preact/signals-react": "^2.2.0",
