@@ -24,7 +24,7 @@ const App = () => {
       <Features />
       <ProductUsage />
       <Contact />
-      {/* <BtnUp /> */}
+
     </div>
   );
 };
